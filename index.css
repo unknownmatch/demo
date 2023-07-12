@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+nav {
+    width: 1200px;
+    margin: auto;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.rasm {
+    display: flex;
+    align-items: center;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.btn {
+    color: white;
+    width: 160px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: none;
+    background: #09A66D;
+}
+
+.banner {
+    width: 1440px;
+    margin: auto;
+    height: 850px;
+    flex-shrink: 0;
+    background: #F3FBF8;
+
+    position: relative;
+
+}
+
+.fruit {
+    color: #222;
+    font-family: Rosario;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 90px;
+    color: #222222;
+    text-align: center;
+    padding-top: 135px;
+}
+
+.label {
+    color: #555;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.matn {
+    width: 637px;
+    margin: auto;
+    height: 90px;
+}
+
+.image {
+
+    position: absolute;
+    top: -40px;
+
+}
+
+.arrow {
+    width: 176px;
+    margin: auto;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 72px;
+}
+
+.belgi {
+    position: relative;
+}
+
+.lol {
+    position: absolute;
+    left: 750px;
+}
+
+.order {
+    color: #222;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.tak {
+    width: 250px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    background: #FFF;
+    position: absolute;
+    top: 440px;
+    left: 1090px;
+}
+
+.k {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 48px;
+    margin-bottom: 50px;
+}
+.photo{
+    margin-left: 45px;
+}
